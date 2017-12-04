@@ -1,2 +1,2 @@
 # css-examples
-some examples
+Some examples
